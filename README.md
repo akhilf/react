@@ -1,6 +1,5 @@
-## Demonstrate React Basic concept and application structure
-## I have created this project to show how we can build react application
-## It is small react based application where you can add items to list and delete it
+## Learning ReactJS
+### It is small react based application where you can add items to list and delete it
 
 Prerequisites
 ============
