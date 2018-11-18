@@ -12,4 +12,5 @@ Project setup - Run commands in cmd
 ======================
 * Go to the project folder structure
 * Run -> npm install
+* Run -> npm i bootstrap@4.1.1
 * Run -> npm start
