@@ -11,4 +11,5 @@ Prerequisites
 Project setup - Run commands in cmd
 ======================
 * Go to the project folder structure
+* Run -> npm install
 * Run -> npm start
